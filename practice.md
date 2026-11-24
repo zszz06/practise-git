@@ -1,3 +1,7 @@
 # Practice goals
 
-The goal of this exercise is to learn basic Git operations.
+The goal of this exercise is to practise resolving Git merge conflicts.
+
+## Next steps
+
+Inspect the conflict and verify the merged result.
